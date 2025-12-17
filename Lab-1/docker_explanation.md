@@ -1,4 +1,4 @@
-# Docker – Simple Explanation for Students
+# Docker 
 
 ## 🐳 What is Docker?
 Docker is a tool that lets you run software in a clean, isolated environment called a **container**.
