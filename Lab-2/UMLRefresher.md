@@ -290,4 +290,4 @@ Next, examine the sequence diagram, and modify your existing code to implement t
 During this process, you may find that some modification and/or clarification of some of these classes may be necessary. In that case, you must update the class and sequence diagrams to reflect those changes. I will accept hand-drawn UML diagrams, or you may use a drawing tool like Violet, UMLet, or ArgoUML, etc.
 
 ## 2 Deliverables
-- Submit your code and UML documentation to Snoopy.
+- Accept the GitHub Classroom submission to create your submission repository.  You can also put your UML diagrams under revision controal as well as your code.
